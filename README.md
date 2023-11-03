@@ -1,6 +1,7 @@
-Jersey Webservice Template JPA Data Model Examples<sup>![Java Version Badge][Java Version Badge]</sup>
+Jersey Webservice Template JPA Data Model Examples
 ==================================================
 
+![Java Version Badge][Java Version Badge]
 [![GitHub Workflow Status][GitHub Workflow Status]](https://github.com/QubitPi/jersey-webservice-template-jpa-data-model/actions/workflows/ci-cd.yml)
 [![Apache License Badge]](https://www.apache.org/licenses/LICENSE-2.0)
 
