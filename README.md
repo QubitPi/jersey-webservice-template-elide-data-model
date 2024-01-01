@@ -10,7 +10,9 @@ This example project serves as an example of how to define [JPA Data Model for J
 production-ready [test framework] to make sure the model compiles with business requirements.
 
 Its CI/CD, as part of this template, will trigger the CI/CD of [test framework] as well to make them a standard
-pipeline.
+pipeline. See
+[Jersey Webservice Template documentation](https://qubitpi.github.io/jersey-webservice-template/docs/elide/configuration#cicd-chain)
+on how to configure.
 
 License
 -------
