@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"io.github.qubitpi.ws.jersey.template.models","c":"Book","l":"Book()","u":"%3Cinit%3E()"},{"p":"io.github.qubitpi.ws.jersey.template.models","c":"Book","l":"id"},{"p":"io.github.qubitpi.ws.jersey.template.models","c":"Book","l":"title"}];updateSearchResults();

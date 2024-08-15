@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.qubitpi.ws.jersey.template.models","l":"Book"}];updateSearchResults();

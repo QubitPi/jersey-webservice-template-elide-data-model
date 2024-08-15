@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.qubitpi.ws.jersey.template.models"}];updateSearchResults();
