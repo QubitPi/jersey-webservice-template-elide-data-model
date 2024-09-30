@@ -24,7 +24,7 @@ name: CI/CD
 
 jobs:
   yml-md-style-and-link-checks:
-    uses: QubitPi/hashicorp-aws/.github/workflows/yml-md-style-and-link-checks.yml@master
+    uses: QubitPi/hashistack/.github/workflows/yml-md-style-and-link-checks.yml@master
 
   tests:
     name: Testing install
@@ -33,7 +33,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Set up JDK
-        uses: QubitPi/hashicorp-aws/.github/actions/jdk-setup@master
+        uses: QubitPi/hashistack/.github/actions/jdk-setup@master
       - name: Test
         run: mvn -B clean install
 
@@ -45,7 +45,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Set up JDK
-        uses: QubitPi/hashicorp-aws/.github/actions/jdk-setup@master
+        uses: QubitPi/hashistack/.github/actions/jdk-setup@master
       - name: Build doc
         run: mvn -B clean install
       - name: Load CNAME
